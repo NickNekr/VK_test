@@ -1,2 +1,2 @@
 # VK_test
-VK education
+Introductory tasks for vk education
